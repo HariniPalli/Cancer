@@ -1,0 +1,15 @@
+🩺 Simple Cancer Test Form (HTML Only)
+
+This project is a basic cancer self-check form created using only HTML.
+⚠️ It is not a real medical tool — it is just a practice project for learning HTML forms.
+
+Users can:
+
+Fill in basic personal details (name, age, gender).
+
+Answer some yes/no questions related to general health symptoms.
+
+Submit the form (though no data is stored, since it’s pure HTML).
+
+
+The goal of this project is to practice form inputs, radio buttons, checkboxes, and form structure in HTML, while also presenting it in a clear, human-friendly way.
